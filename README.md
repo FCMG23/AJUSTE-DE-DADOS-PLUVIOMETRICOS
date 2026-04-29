@@ -50,4 +50,4 @@ Ao executar o processamento, o programa gera dados agregados (diário, semanal e
 A ferramenta foi pensada para otimizar fluxos de trabalho em análises hidroclimáticas, reduzindo o tempo gasto com manipulação manual de dados horários e permitindo maior foco na interpretação geográfica e climatológica dos resultados.
 
 
-## Link para os programas - https://drive.google.com/drive/folders/1e9yWfYiQKLLxBoP38zqWhKGlab75TCDU?usp=sharing 
+## Link para os arquivos executáveis dos programas - https://drive.google.com/drive/folders/1e9yWfYiQKLLxBoP38zqWhKGlab75TCDU?usp=sharing 
