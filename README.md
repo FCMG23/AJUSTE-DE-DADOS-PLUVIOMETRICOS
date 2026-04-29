@@ -16,6 +16,7 @@ A versão Multi permite o processamento em lote de diversos arquivos CSV simulta
 ## Funcionamento:
 
 PASSO 1 - O usuário seleciona a pasta onde estão armazenados os arquivos CSV baixados.
+
 PASSO 2 - O usuário define a pasta de destino onde serão salvos os resultados processados.
 
 <img width="776" height="313" alt="image" src="https://github.com/user-attachments/assets/3d2bab0f-97eb-47f1-8039-6ecf1a7ccad3" />
@@ -37,6 +38,7 @@ A versão Single permite o processamento individual de um único arquivo CSV.
 ## Funcionamento:
 
 PASSO 1 - O usuário seleciona o arquivo CSV desejado.
+
 PASSO 2 - O usuário define a pasta onde os resultados serão salvos.
 
 <img width="780" height="313" alt="image" src="https://github.com/user-attachments/assets/b5f17235-18fe-41b1-ad76-30bf76cdd1a5" />
