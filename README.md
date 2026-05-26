@@ -81,6 +81,10 @@ Você pode baixar a versão pronta do programa:
 
 Após o download: Execute diretamente
 
+# ATUALIZAÇÃO
+
+Na Versão 1.1 foi resolvido um pequeno problema, uma vez que as planilhas de dados tem formatos de data/hora distintos. Agora o programa é capaz de identificar todos os formatos de data e hora.
+
 
 # Observação
 A ferramenta foi pensada para otimizar fluxos de trabalho em análises hidroclimáticas, reduzindo o tempo gasto com manipulação manual de dados horários e permitindo maior foco na interpretação geográfica e climatológica dos resultados.
